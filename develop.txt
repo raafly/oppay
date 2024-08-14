@@ -1,0 +1,5 @@
+alur auth
+user memasuk email untuk bisa mendaftarkan
+kemudian server akan mengirim kode vertif ke email
+user menerima kode dan memasukan kode 
+server mengverifikasi kode email dan jika valid lanjut membuat profile
